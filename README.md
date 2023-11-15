@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![](https://github-readme-stats.vercel.app/api?username=GasinAn&show_icons=true&count_private=true&hide_title=true)](https://github.com/GasinAn/GasinAn)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=GasinAn&layout=compact)](https://github.com/GasinAn?tab=repositories)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=GasinAn&layout=compact)](https://github.com/GasinAn?tab=repositories)
+<!--[![](https://github-readme-stats.vercel.app/api/pin?username=GasinAn&repo=repo)](https://github.com/GasinAn/repo)-->
