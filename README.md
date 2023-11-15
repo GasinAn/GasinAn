@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **GasinAn/GasinAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![](https://github-readme-stats.vercel.app/api?username=GasinAn&show_icons=true&count_private=true&hide_title=true)](https://github.com/GasinAn/GasinAn)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=GasinAn&layout=compact)](https://github.com/GasinAn?tab=repositories)
