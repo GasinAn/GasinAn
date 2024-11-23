@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=GasinAn&show_icons=true&count_private=true&hide_title=true&theme=nord)](https://github.com/GasinAn/GasinAn)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=GasinAn&layout=compact&theme=nord)](https://github.com/GasinAn?tab=repositories)
-<!--[![](https://github-readme-stats.vercel.app/api/pin?username=GasinAn&repo=repo&theme=nord)](https://github.com/GasinAn/repo)-->
+![](https://github-readme-stats.vercel.app/api?username=GasinAn&show_icons=true&count_private=true&hide_title=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=GasinAn&layout=compact&theme=nord)
+<!--![](https://github-readme-stats.vercel.app/api/wakatime?username=GasinAn&layout=compact&theme=nord)-->
+<!--![](https://github-readme-stats.vercel.app/api/pin?username=GasinAn&repo=repo&theme=nord)
